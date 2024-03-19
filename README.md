@@ -9,7 +9,7 @@ For assignment 3 question 1, we are implementing a PostgreSQL database and write
 Steps:
 Open pgAdmin4 and create students database using the code from database_script.
 Use provided database script to fill the database with the schema needed for assignment 3.
-Download the files above from code and run Main.java in an IDE (e.g intelliJ).
+Download the files above from a3_q1 and run Main.java in an IDE (e.g intelliJ).
 Now you can modify or query the database with CRUD operations.
 
 Video Demonstration:
